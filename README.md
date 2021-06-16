@@ -44,7 +44,6 @@ Github |	https://github.com/dntjr031
 Page |	''
 
 
-
-/*links*/
+<!-- Link list -->
 [hodilink]: http://www.hodi.co.kr/ "Go Hodi"
 [portallink]: https://github.com/FinalProjectTeam2/portal "Go portal"
