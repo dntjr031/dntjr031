@@ -2,7 +2,7 @@
 1994-03-03
 
 
-## 📌 Work Experience
+## 💼 Work Experience
 ### [(주)호디][hodilink] (2020.10 ~ 현재)
 [hodilink]: http://www.hodi.co.kr/ "Go Hodi"
 웹 개발자
@@ -25,7 +25,7 @@
 #### 3. 원격 지침 계량기 연계 서비스 (Spring-Boot, Oracle, Java 11, Ubuntu, JPA, Maven)
 1) 매 분 저장되는 원격 지침 계량기 데이터를 한국 전력거래소와 연계하는 서비스 구축
 
-## 🚀 Projects
+## 🗂 Projects
 - [국비학원 파이널 프로젝트] [학사프로그램][portallink] (Java 8, Spring, Maven, Spring-security, Websocket, JSP, Jquery, Oracle)
 
 
