@@ -1,5 +1,5 @@
 # 🖥 Wooseok Kim
-1994.03.03
+1994-03-03
 
 
 ## 📌 Work Experience
@@ -27,6 +27,8 @@
 
 ## 🚀 Projects
 - [국비학원 파이널 프로젝트] [학사프로그램][portallink] (Java 8, Spring, Maven, Spring-security, Websocket, JSP, Jquery, Oracle)
+
+
 [portallink]: https://github.com/FinalProjectTeam2/portal "Go portal"
 
 ## 📖 Studies
