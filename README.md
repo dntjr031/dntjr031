@@ -41,7 +41,7 @@ Site |	Link
 --- | ---
 Email |	paulkim6147@naver.com
 Github |	https://github.com/dntjr031
-Page |	''
+Page |	https://dntjr031.github.io
 
 
 <!-- Link list -->
