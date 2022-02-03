@@ -35,7 +35,7 @@
 - Leafletjs를 사용하여 제주지역정보에 DIMA(제주계통 정보, EV 충전소 정보, 낙뢰 정보, 강수량 정보, 태양광발전 정보) 시스템 구축
 
 
-## 📖✏ Study
+## 📖 Study
 - Reactjs
 - GraphQL
 - Apollo server, client
