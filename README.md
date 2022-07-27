@@ -37,10 +37,10 @@
 
 ## 📖 Study
 - Reactjs
-- GraphQL
-- Apollo server, client
-- 협업관리(Issue, PR, Code Review)
-
+- CI/CD
+- Spring WebFlux
+- Express
+- Electron
 
 ## 🛠 Skills
 ### Langages
